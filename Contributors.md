@@ -1,5 +1,6 @@
 # Contributors
 - [Nabina Mallik](https://github.com/nabinamallik)
+- [Nathaniel Bierig](https://github.com/NathanielBierig)
 - [Agung Saputra](https://github.com/Agung1606)
 - [Abdullah Sulaiman](https://github.com/CodeMage-x)
 - [Ayushi Awasthi](https://github.com/Ayushi3023)
